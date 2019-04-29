@@ -1,8 +1,3 @@
-module Main where
-
-import Lib
-
-main :: IO ()
 
 doubleMe x = x + x
 
